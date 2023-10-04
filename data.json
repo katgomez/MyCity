@@ -1,7 +1,7 @@
 {
     "meta": {
         "app_id": "org.example.sample.manifest.package",
-        "app_title": "Edificios Historicos",
+        "app_title": "Edificios Historicos de Valparaíso",
         "version": 1,
         "updated": "2023-10-04",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
