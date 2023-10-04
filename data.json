@@ -1,11 +1,11 @@
 {
     "meta": {
-        "app_id": "org.example.sample.manifest.package",
-        "app_title": "Edificios Historicos de Valparaíso",
+        "app_id": "org.example.same.identifier.manifest.package",
+        "app_title": "City Street Heritage",
         "version": 1,
-        "updated": "2023-10-04",
+        "updated": "2022-09-26",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
-        "matomo_base_url": "",        
+        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
     },
     "content": {
@@ -23,13 +23,14 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID-1",
+                    "id": "uniqueID",
                     "lat": "50.8789629",
                     "lon": "4.7013242",
                     "type": "statue",
-                    "name": "Intendencia",
+                    "name": "My Statue",
                     "images": [
-                        "images/Comandancia_en_Jefe_de_la_Armada_en_Valparaíso_1.jpg"
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
