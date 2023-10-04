@@ -24,8 +24,8 @@
             },
             "pois": [{
                     "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
+                    "lat": "-33.0431493",
+                    "lon": "-71.6262387",
                     "type": "statue",
                     "name": "Intendencia",
                     "images": [
