@@ -23,14 +23,13 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "Intendencia",
+                    "id": "uniqueID-1",
                     "lat": "50.8789629",
                     "lon": "4.7013242",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Intendencia",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "images/Comandancia_en_Jefe_de_la_Armada_en_Valparaíso_1.jpg"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
