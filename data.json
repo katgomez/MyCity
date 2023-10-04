@@ -23,7 +23,7 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
+                    "id": "Intendencia",
                     "lat": "50.8789629",
                     "lon": "4.7013242",
                     "type": "statue",
