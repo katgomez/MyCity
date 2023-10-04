@@ -1,11 +1,11 @@
 {
     "meta": {
         "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_title": "Edificios Historicos de Valparaíso",
         "version": 1,
-        "updated": "2022-09-26",
+        "updated": "2023-10-04",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
-        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
+        "matomo_base_url": "",        
         "marketplace_url": ""
     },
     "content": {
@@ -27,10 +27,9 @@
                     "lat": "50.8789629",
                     "lon": "4.7013242",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Intendencia",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://github.com/katgomez/MyCity/blob/master/images/Comandancia_en_Jefe_de_la_Armada_en_Valpara%C3%ADso_1.jpg"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
